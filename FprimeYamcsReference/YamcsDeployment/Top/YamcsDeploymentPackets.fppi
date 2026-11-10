@@ -88,6 +88,8 @@ telemetry packets YamcsDeploymentPackets {
     DataProducts.dpWriter.NumSuccessfulWrites
     DataProducts.dpWriter.NumFailedWrites
     DataProducts.dpWriter.NumErrors
+    DataProducts.dpWriter.ProcOverrideState
+    DataProducts.dpWriter.ProcOverrideMask
 
     DataProducts.dpBufferManager.TotalBuffs
     DataProducts.dpBufferManager.CurrBuffs
